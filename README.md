@@ -101,21 +101,7 @@ AssessMe.AI is an AI-driven platform designed to automate and enhance the recrui
 - **CAGR (2023-2030)**: ~7.0%
 - **Regional Insights**: North America leads with a significant share, while Asia Pacific shows potential for growth.
 
-## Financial Projections
 
-| Year  | Sales Target ($) | User Penetration Rate (%) | Revenue ($) | Cost per Year ($) | Net Profit ($) |
-|-------|-------------------|---------------------------|-------------|-------------------|----------------|
-| Year 1| 180,000           | 18%                       | 135,000     | 135,000           | -22,500        |
-| Year 2| 220,000           | 22%                       | 180,000     | 116,878           | 38,122         |
-| Year 3| 280,000           | 30%                       | 225,000     | 123,326           | 71,674         |
-| Year 4| 330,000           | 40%                       | 270,000     | -                 | -              |
-
-### Cost Structure
-- **Development**: $55,000
-- **Hosting**: $10,000
-- **GPU for AI Maintenance**: $15,000
-- **Marketing**: $20,000
-- **Miscellaneous**: $5,000
 
 ## Conclusion
 
