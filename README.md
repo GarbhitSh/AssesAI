@@ -1,7 +1,7 @@
 # AssessMe.AI: Recruitment and Assessment Automation Platform
 
 ## Project Overview
-[Deployed Project](https://assessment-ai.vercel.app/)
+[view Deployed Project](https://assessment-ai.vercel.app/)
 
 AssessMe.AI is an AI-driven platform designed to automate and enhance the recruitment process. It provides personalized assessments, virtual AI interviews, and detailed feedback and analytics, all aimed at creating a fair and efficient hiring experience. The platform integrates Theta Generative AI for advanced question generation and candidate evaluation.
 
@@ -19,9 +19,6 @@ AssessMe.AI is an AI-driven platform designed to automate and enhance the recrui
 - **Ranking and Hiring**
   - Objective candidate ranking to aid in decision-making.
 
-![Screenshot 2024-06-22 170440](https://github.com/garbhitsh/AssesAI/assets/89721628/a405e16f-6173-41d9-9e40-aabd83d78c9b)
-
-![Screenshot 2024-06-22 170504](https://github.com/garbhitsh/AssessAI/assets/89721628/a25b846e-b033-4e74-ad07-a5a8a6f2fc88)
 
 ## Problems Addressed
 
@@ -86,14 +83,12 @@ AssessMe.AI is an AI-driven platform designed to automate and enhance the recrui
    - Conducts virtual AI interviews with candidates.
    - Ranks candidates based on feedback and analytics.
 
-![Screenshot 2024-06-22 170555](https://github.com/sumionochi/Assessment.AI/assets/89721628/46872d7c-f458-43d6-bd7b-1e7a7a40d4e8)
 
 ## Implementation Plan
 
 - **Flexibility in Timelines**: Adjusts for delayed deployment and prioritizes continuous improvement.
 - **High-Level Implementation**: Regular communication with beta users for feedback and iterative updates.
 
-![Screenshot 2024-06-22 170625](https://github.com/sumionochi/Assessment.AI/assets/89721628/fa205dae-6939-40e2-8aa2-07b9621d2a65)
 
 ## Market Analysis
 
