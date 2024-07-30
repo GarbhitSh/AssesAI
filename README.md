@@ -1,7 +1,7 @@
 # AssessMe.AI: Recruitment and Assessment Automation Platform
 
 ## Project Overview
-[view Deployed Project](https://assessment-ai.vercel.app/)
+[View Deployed Project](https://assessment-ai.vercel.app/)
 
 AssessMe.AI is an AI-driven platform designed to automate and enhance the recruitment process. It provides personalized assessments, virtual AI interviews, and detailed feedback and analytics, all aimed at creating a fair and efficient hiring experience. The platform integrates Theta Generative AI for advanced question generation and candidate evaluation.
 
